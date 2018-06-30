@@ -1,6 +1,6 @@
 # advanced-php-kmeans
 
-K-means clustering for PHP: unsupervised machine learning algorithm made easy using this class. Handles multidimensional dataset (no limit), which is quite useful if your dataset contains more than 2 fields.
+K-means clustering for PHP: unsupervised machine learning algorithm made easy using this library. It is one of the rare libraries that handle multidimensional dataset (no limit), which is quite useful if your dataset contains more than 2 fields.
 
 ![Generated2DMatrix_preview](https://i.imgur.com/c8FzzSA.png)
 

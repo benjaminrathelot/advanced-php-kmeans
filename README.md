@@ -55,6 +55,5 @@ $k->print2DMatrix(MAX_X_SIZE, MAX_Y_SIZE, MIN_X_SIZE=0, MIN_Y_SIZE=0); // You mu
 
 ## Notes
 
-This is the first release of the library, I might rewrite it in Java soon. Feel free to contact me if you have any question.
+This is the first release of the library. Feel free to contact me if you have any question.
 
-You might be interested by the ability to send push notifications using two lines of PHP code, without coding your own mobile app => [notify.pm - free](https://notify.pm/) / (@notifypm : API on GitHub) !
